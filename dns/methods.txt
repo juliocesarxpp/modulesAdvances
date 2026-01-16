@@ -1,0 +1,3 @@
+dns.promises.lookup()
+dns.promises.resolve*()
+d
